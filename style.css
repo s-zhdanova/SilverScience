@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 .header {
-    height: 80px;
+    height: 11vh;
     width: 100vw;
     /* background-color: #bc6e6e; */
     background-color: #dd5353;
@@ -30,8 +30,8 @@ body {
 .logo {
     /* padding: 5px; */
     position: fixed;
-    height: 75px;
-    width: 75px;
+    height: 11vh;
+    width: 11vh;
     z-index: 101;
     top: 0px;
     left: 0px;
@@ -70,7 +70,7 @@ body {
     font-family:'Times New Roman', Times, serif;
     /* position: absolute; */
     white-space: normal;
-    font-size: 7vh; /* 50px*/
+    font-size: 6vh; /* 50px*/
     /* left: 720px;
     right: 10px;
     top: 70px; */
@@ -87,7 +87,7 @@ body {
     width: 95vw;
     /* background-color: #f1ebe5; */
     background-color: #f8f2de;
-    font-size: 22px;
+    font-size: 4vh;
     text-align: center;
     color:rgb(144, 131, 110);
 
@@ -118,7 +118,7 @@ body {
     /* left: 20px;
     right: 700px;
     top: calc(80px + 13vh + 10px); */
-    font-size: 18px;
+    font-size: 3vh;
     text-align: center;
     color: rgb(144, 131, 110);
     /* z-index: 3; */
@@ -136,7 +136,7 @@ mark {
     background-color: #dd5353;
     border: none;
     width: 90px; 
-    height: 80px;
+    height: 11vh;
     z-index: 102;
     position: absolute;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
